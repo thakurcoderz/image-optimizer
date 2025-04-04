@@ -15,7 +15,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Saurabh7636/image-optimizer.git
+   git clone https://github.com/thakurcoderz/image-optimizer.git
    cd image-optimizer
    ```
 
